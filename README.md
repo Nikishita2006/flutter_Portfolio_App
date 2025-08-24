@@ -1,2 +1,2 @@
 # flutter_Portfolio_App
-This is my first basic flutter app, I made using simple widgets with Card, buttons and Icons.
+This is the first version of my portfolio app built with Flutter. Currently, it’s a simple static prototype which includes widgets like Card, buttons and Icons. I plan to add navigation and more features soon.
